@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:2:1-59:12
+ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:2:1-59:12
 MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\5dda9837f0eb66ce4c1ee35d16c25195\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\05990010fb773a1f09662c44e694de96\navigation-ui-ktx-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\847732ca28dfba6583976f9789b9bdcc\navigation-ui-2.3.5\AndroidManifest.xml:17:1-24:12
@@ -72,37 +72,37 @@ MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\Users\alexz\.
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\adf8d4ec58c98f5b37616cb4b06b74f4\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\ec8f8c1adff0a2e335224d55d6281d39\jetified-transport-api-2.2.0\AndroidManifest.xml:15:1-22:12
 MERGED from [io.card:android-sdk:5.5.1] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\539c5362d556fc3aaf7f333964e22b4b\jetified-android-sdk-5.5.1\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:2:1-59:12
 	package
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:4:5-37
-		INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:2:1-59:12
-		INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:2:1-59:12
+		INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:2:1-59:12
-		INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:2:1-59:12
+		INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:2:11-69
 	tools:targetApi
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:6:5-24
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:6:5-24
 	android:targetSandboxVersion
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:5:5-37
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:5:5-37
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:12:5-79
+ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:12:5-79
 MERGED from [com.google.android.libraries.places:places:2.4.0] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\ee650a35573f30983cab280c9ed89aae\jetified-places-2.4.0\AndroidManifest.xml:9:5-79
 MERGED from [com.google.android.libraries.places:places:2.4.0] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\ee650a35573f30983cab280c9ed89aae\jetified-places-2.4.0\AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:12:22-76
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:12:22-76
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:13:5-79
+ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:13:5-79
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\2d547673e05a0f4359ea410021e8e7c2\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\2d547673e05a0f4359ea410021e8e7c2\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
 MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\4121a360850fcf45924fcc6fbccbf23f\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:9:5-79
@@ -112,9 +112,9 @@ MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Us
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\75dac4bc9014ab8ca7baa63e80456db8\jetified-transport-runtime-2.2.3\AndroidManifest.xml:22:5-79
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\75dac4bc9014ab8ca7baa63e80456db8\jetified-transport-runtime-2.2.3\AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:13:22-76
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:13:22-76
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:14:5-67
+ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:14:5-67
 MERGED from [com.github.VishnuSivadasVS:Advanced-HttpURLConnection:1.2] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\c8932cb40f1161e2b796208b35101627\jetified-Advanced-HttpURLConnection-1.2\AndroidManifest.xml:11:5-67
 MERGED from [com.github.VishnuSivadasVS:Advanced-HttpURLConnection:1.2] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\c8932cb40f1161e2b796208b35101627\jetified-Advanced-HttpURLConnection-1.2\AndroidManifest.xml:11:5-67
 MERGED from [com.google.android.libraries.places:places:2.4.0] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\ee650a35573f30983cab280c9ed89aae\jetified-places-2.4.0\AndroidManifest.xml:11:5-67
@@ -126,9 +126,9 @@ MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\alexz\.gradle\ca
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\14cf8aa4fb3e1ee7c10ee7c46ace0a89\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\14cf8aa4fb3e1ee7c10ee7c46ace0a89\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:26:5-67
 	android:name
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:14:22-64
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:14:22-64
 application
-ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:16:5-57:19
+ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:16:5-57:19
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\723282c7994550298e26d567cb0e519b\material-1.3.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\723282c7994550298e26d567cb0e519b\material-1.3.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\9570f34841c72a34d773388f89286f55\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
@@ -166,91 +166,91 @@ MERGED from [io.card:android-sdk:5.5.1] C:\Users\alexz\.gradle\caches\transforms
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.1] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\b234a824af7fd98a5c54fc0522824a91\core-1.3.1\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:22:9-35
 	android:label
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:19:9-41
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:19:9-41
 	android:roundIcon
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:21:9-54
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:21:9-54
 	tools:targetApi
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:25:9-28
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:25:9-28
 	android:icon
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:18:9-43
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:18:9-43
 	android:allowBackup
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:17:9-35
 	android:theme
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:23:9-48
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:23:9-48
 	android:networkSecurityConfig
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:20:9-69
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:20:9-69
 	android:usesCleartextTraffic
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:24:9-44
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:24:9-44
 activity#com.example.bustickets.fragments.NextBus
-ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:26:9-64
+ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:26:9-64
 	android:name
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:26:19-52
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:26:19-52
 activity#com.example.bustickets.ActivateTicket
-ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:27:9-52
+ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:27:9-52
 	android:name
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:27:19-49
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:27:19-49
 activity#com.example.bustickets.fragments.AddBalance
-ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:28:9-58
+ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:28:9-58
 	android:name
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:28:19-55
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:28:19-55
 activity#com.example.bustickets.fragments.Wallet
-ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:29:9-54
+ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:29:9-54
 	android:name
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:29:19-51
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:29:19-51
 activity#com.example.bustickets.PayPal
-ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:30:9-44
+ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:30:9-44
 	android:name
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:30:19-41
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:30:19-41
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:39:9-41:55
+ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:39:9-41:55
 	android:value
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:41:13-52
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:41:13-52
 	android:name
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:40:13-58
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:40:13-58
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:42:9-44:69
+ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:42:9-44:69
 MERGED from [com.google.android.gms:play-services-basement:17.2.1] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\1c083862127b18ccbdeb0ebcbbf7a8db\jetified-play-services-basement-17.2.1\AndroidManifest.xml:23:9-25:69
 MERGED from [com.google.android.gms:play-services-basement:17.2.1] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\1c083862127b18ccbdeb0ebcbbf7a8db\jetified-play-services-basement-17.2.1\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:44:13-66
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:44:13-66
 	android:name
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:43:13-58
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:43:13-58
 activity#com.example.bustickets.Tickets
-ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:46:9-45
+ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:46:9-45
 	android:name
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:46:19-42
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:46:19-42
 activity#com.example.bustickets.SplashScreen
-ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:47:9-50
+ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:47:9-50
 	android:name
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:47:19-47
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:47:19-47
 activity#com.example.bustickets.Options
-ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:48:9-45
+ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:48:9-45
 	android:name
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:48:19-42
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:48:19-42
 activity#com.example.bustickets.Select_City
-ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:49:9-49
+ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:49:9-49
 	android:name
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:49:19-46
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:49:19-46
 activity#com.example.bustickets.MainActivity
-ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:50:9-56:20
+ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:50:9-56:20
 	android:name
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:50:19-47
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:50:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:51:13-55:29
+ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:51:13-55:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:52:17-69
+ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:52:17-69
 	android:name
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:52:25-66
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:52:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:54:17-77
+ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:54:17-77
 	android:name
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml:54:27-74
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml:54:27-74
 uses-sdk
-INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml
 MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\5dda9837f0eb66ce4c1ee35d16c25195\multidex-2.0.1\AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\5dda9837f0eb66ce4c1ee35d16c25195\multidex-2.0.1\AndroidManifest.xml:20:5-43
 MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\05990010fb773a1f09662c44e694de96\navigation-ui-ktx-2.0.0\AndroidManifest.xml:20:5-44
@@ -387,16 +387,16 @@ MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\alex
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\ec8f8c1adff0a2e335224d55d6281d39\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
 MERGED from [io.card:android-sdk:5.5.1] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\539c5362d556fc3aaf7f333964e22b4b\jetified-android-sdk-5.5.1\AndroidManifest.xml:5:5-7:41
 MERGED from [io.card:android-sdk:5.5.1] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\539c5362d556fc3aaf7f333964e22b4b\jetified-android-sdk-5.5.1\AndroidManifest.xml:5:5-7:41
-INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\alexz\Desktop\BusTickets\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexz\AndroidStudioProjects\BusTickets\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.google.android.libraries.places:places:2.4.0] C:\Users\alexz\.gradle\caches\transforms-2\files-2.1\ee650a35573f30983cab280c9ed89aae\jetified-places-2.4.0\AndroidManifest.xml:10:5-76
 	android:name

@@ -2157,6 +2157,7 @@ drawable ic_oval
 drawable ic_pass
 drawable ic_paysafecard
 drawable ic_phone
+drawable ic_splash_screen
 drawable ic_swap
 drawable ic_tickets
 drawable ic_wallet
@@ -2616,7 +2617,6 @@ id spinnerPayment
 id spinnerQuantity
 id spinnerTickets
 id spinnerType
-id splashscreen
 id spline
 id split_action_bar
 id spread

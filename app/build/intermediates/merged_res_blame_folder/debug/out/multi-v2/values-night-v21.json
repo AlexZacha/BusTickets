@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\alexz\\Desktop\\BusTickets\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v21\\values-night-v21.xml",
+            "outputFile": "C:\\Users\\alexz\\AndroidStudioProjects\\BusTickets\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v21\\values-night-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\alexz\\Desktop\\BusTickets\\app\\src\\main\\res\\values-night-v21\\themes.xml",
+                    "source": "C:\\Users\\alexz\\AndroidStudioProjects\\BusTickets\\app\\src\\main\\res\\values-night-v21\\themes.xml",
                     "from": {
                         "startLines": "16,3,9",
                         "startColumns": "4,4,4",

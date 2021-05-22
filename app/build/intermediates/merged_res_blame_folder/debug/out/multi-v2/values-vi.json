@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\alexz\\Desktop\\BusTickets\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-vi\\values-vi.xml",
+            "outputFile": "C:\\Users\\alexz\\AndroidStudioProjects\\BusTickets\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-vi\\values-vi.xml",
             "map": [
                 {
                     "source": "C:\\Users\\alexz\\.gradle\\caches\\transforms-2\\files-2.1\\ee650a35573f30983cab280c9ed89aae\\jetified-places-2.4.0\\res\\values-vi\\values.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\alexz\\Desktop\\BusTickets\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rHK\\values-zh-rHK.xml",
+            "outputFile": "C:\\Users\\alexz\\AndroidStudioProjects\\BusTickets\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rHK\\values-zh-rHK.xml",
             "map": [
                 {
                     "source": "C:\\Users\\alexz\\.gradle\\caches\\transforms-2\\files-2.1\\c1d91fa2a305a19805afb9a4f80fda55\\jetified-play-services-base-17.2.1\\res\\values-zh-rHK\\values.xml",
