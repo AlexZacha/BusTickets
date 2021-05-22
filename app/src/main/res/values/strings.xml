@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusTickets</string>
+    <string name="name">Όνομα</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="navigation_drawer_open">Ανοίξτε το συρτάρι πλοήγησης</string>
+    <string name="navigation_drawer_close">Κλείστε το συρτάρι πλοήγησης</string>
+    <string name="maps_key">AIzaSyDpttRmqMMj5WAbfARWC8k3ZEM0_AHlino</string>
+    <string name="paypal_button">Pay with PayPal</string>
+</resources>

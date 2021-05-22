@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_menu"
+    app:startDestination="@id/options">
+
+    <activity
+        android:id="@+id/options"
+        android:name="com.example.bustickets.Options"
+        android:label="activity_options"
+        tools:layout="@layout/activity_options" />
+    <activity
+        android:id="@+id/lineInformation"
+        android:name="com.example.bustickets.LineInformation"
+        android:label="activity_buses"
+        tools:layout="@layout/activity_buses" />
+    <activity
+        android:id="@+id/directions"
+        android:name="com.example.bustickets.Directions"
+        android:label="activity_directions"
+        tools:layout="@layout/activity_directions" />
+    <activity
+        android:id="@+id/informations"
+        android:name="com.example.bustickets.Informations"
+        android:label="activity_informations"
+        tools:layout="@layout/activity_informations" />
+    <activity
+        android:id="@+id/tickets"
+        android:name="com.example.bustickets.Tickets"
+        android:label="activity_tickets"
+        tools:layout="@layout/activity_tickets" />
+</navigation>

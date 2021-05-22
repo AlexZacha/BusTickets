@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\alexz\\Desktop\\BusTickets\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v21\\values-night-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\alexz\\Desktop\\BusTickets\\app\\src\\main\\res\\values-night-v21\\themes.xml",
+                    "from": {
+                        "startLines": "16,3,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "729,59,405",
+                        "endLines": "20,8,14",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "986,399,721"
+                    },
+                    "to": {
+                        "startLines": "2,7,13",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,313,653",
+                        "endLines": "6,12,18",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "308,648,964"
+                    }
+                }
+            ]
+        }
+    ]
+}

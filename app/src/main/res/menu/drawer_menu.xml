@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/optionsLayout"
+            android:icon="@drawable/ic_home"
+            android:title="Αρχική" />
+        <item
+            android:id="@+id/lineInformationLayout"
+            android:icon="@drawable/ic_bus"
+            android:title="Λεωφορεία Γραμμής" />
+        <item
+            android:id="@+id/directionsLayout"
+            android:icon="@drawable/ic_line"
+            android:title="Πληροφορίες" />
+        <item
+            android:id="@+id/walletLayout"
+            android:icon="@drawable/ic_wallet"
+            android:title="Πορτοφόλι" />
+        <item
+            android:id="@+id/ticketsLayout"
+            android:icon="@drawable/ic_tickets"
+            android:title="Εισητήρια" />
+        <item
+            android:id="@+id/infoLayout"
+            android:icon="@drawable/ic_info"
+            android:title="Σχετικά με τον οργανισμό" />
+    </group>
+
+    <item android:title="Εποικοινωνία">
+        <menu>
+            <item
+                android:id="@+id/nav_phone"
+                android:icon="@drawable/ic_phone"
+                android:title="Τηλέφωνο" />
+            <item
+                android:id="@+id/nav_email"
+                android:icon="@drawable/ic_baseline_email_24"
+                android:title="e-mail" />
+            <item
+                android:id="@+id/aboutUs"
+                android:icon="@drawable/ic_about_us"
+                android:title="Σχετικά με εμάς" />
+        </menu>
+    </item>
+</menu>
